@@ -1,0 +1,8 @@
+11:16:58.173 [main] INFO  - Successfully initaited chromedriver
+11:16:58.183 [main] INFO  - Give an implicit wait of 10 sec
+11:17:06.970 [main] INFO  - Browsed into Myntra website
+11:17:07.520 [main] INFO  - Quitting the driver
+11:20:02.871 [main] INFO  - Successfully initaited chromedriver
+11:20:02.889 [main] INFO  - Give an implicit wait of 10 sec
+11:20:10.258 [main] INFO  - Browsed into Myntra website
+11:20:10.883 [main] INFO  - Quitting the driver
